@@ -1,0 +1,14 @@
+Note 1 ==
+We use functions to reduce the redundancy in the code if we have to perform some task on 
+the repetitive basis then we just create a function and call it whenever required saving time 
+and reducing redundancy
+
+Note 2 == 
+All functions are stored under stack memory at the bottom it is stored under the main function
+and above that the functions we have created are stored
+it is store in upward manner and when it provides the final output then the stack is empty
+
+Note 3 == Pass by Value
+Here the copy of the arguments is passed on to the functions
+Here the address is not same both a,b declared in the main function and the function we have 
+created is different
