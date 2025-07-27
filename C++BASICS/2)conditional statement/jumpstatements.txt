@@ -1,0 +1,14 @@
+break == In C++, when encountered, the break statement terminates the loop or switch statement,
+and control returns from the loop or switch statement immediately to the first statement
+after the loop.
+
+continue == the continue statement is used to skip the current iteration of the loop,
+and the control of the program goes to the next iteration.
+
+goto statement == the goto statement is used to alter the normal sequence of program 
+execution by transferring control to some other part of the program. 
+The goto statement can be used to jump from anywhere to anywhere within a function.
+
+return ==  The return statement is used to terminate a function’s execution and transfer 
+program control back to the calling function. It can also specify a value to be returned
+by the function. A function may contain one or more return statements. 
