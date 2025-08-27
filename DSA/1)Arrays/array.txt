@@ -1,4 +1,0 @@
-Note 
-
-1) Array elements are stored in consecutive memory address but we can not tell where the first 
-element can be
